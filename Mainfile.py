@@ -43,4 +43,4 @@ while(1):
     elif ans == 3:
         grape(coin)
     else:
-        print("잘못된 값입니다.")   
+        print("잘못된 값입니다.")
